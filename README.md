@@ -47,7 +47,8 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 
 ## Result
-Thus the mean and variance are executed in Scilab and output is verified.
+<img width="1417" height="973" alt="image" src="https://github.com/user-attachments/assets/2a039c06-68e8-48fe-bf16-017a15dbfa94" />
+
 
 
  
